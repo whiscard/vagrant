@@ -1,8 +1,12 @@
 #Idempiere Repo
 idempiere/repos/
+*.html
 
 #Vagrant log files
 *.log
 
 #Vagrant Machine
 .vagrant
+
+#ERP Academy idempiere log file
+*.txt
