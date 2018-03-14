@@ -1,5 +1,5 @@
 #Idempiere Repo
-idempiere/repos/
+idempiere/idemp_training/repos
 *.html
 
 #Vagrant log files
