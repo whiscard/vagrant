@@ -10,3 +10,10 @@ idempiere/repos/
 
 #ERP Academy idempiere log file
 *.txt
+
+#Temporary files
+tmp/
+tmp/*
+
+#idempiere installation script
+idempiere-installation-script/
